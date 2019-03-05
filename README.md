@@ -1,7 +1,9 @@
 # Git Biography
 
-A central location of the projects that I own, I've contributed to, and/or I've open sourced. This list encompasses
-all my online Git accounts such as GitLab, GitHub, BitBucket, etc...
+A central location of the projects that I own, I've contributed to, and/or I've open sourced. This repo is also 
+mirrored on each of the following accounts using GitLab's mirror feature:
+- [GitLab @jbeckman](https://gitlab.com/jbeckman)
+- [GitHub @unibeck](https://github.com/unibeck)
 
 ## Vestalect - Smart Home Projects
 Uses ChefDK, Docker, Home Assistant, and many other services to provide a easy to build and maintain smart home host.
