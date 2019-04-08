@@ -20,6 +20,10 @@ or AI. Since this is not open sourced, please reach out directly if you have any
 |  | Project/Group | Open sourced | Owner | Contributor |
 |---|---------------|--------------|-------|-------------|
 | https://gitlab.com/chessmates  | Group | No | Yes | Yes |
+| https://gitlab.com/chessmates/ChessMates  | Project | No | Yes | Yes |
+| https://gitlab.com/chessmates/ChessMates-PhantomPlay  | Project | No | Yes | Yes |
+| https://gitlab.com/chessmates/ChessMates-Chessler  | Project | No | Yes | Yes |
+| https://gitlab.com/chessmates/design  | Project | No | Yes | Yes |
 
 
 ## Personal Projects
@@ -38,5 +42,7 @@ Various sized projects targeted at technologies that I'm interested in and find 
 
 |  | Project/Group | Open sourced | Owner | Contributor |
 |---|---------------|--------------|-------|-------------|
+| https://github.com/home-assistant/home-assistant  | Project | Yes | No | Yes |
 | https://github.com/JahnelGroup/activedirectory-proxy  | Project | Yes | No | Yes |
 | https://github.com/davecom/chess.dart  | Project | Yes | No | Yes |
+| https://gitlab.com/plutus-realm/youtrack-scripts  | Project | No | Yes | Yes |
